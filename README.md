@@ -1,2 +1,2 @@
-# image-slider
+# Image-slider
 A carousel with vanilla JavaScript.  Purely build for fun and as exercise.
